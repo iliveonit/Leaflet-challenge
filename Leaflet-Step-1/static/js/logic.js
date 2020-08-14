@@ -1,4 +1,3 @@
-// Store our API endpoint inside queryUrl
 // Past 7 days Earthquake data from site:
 // https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php#data
 
